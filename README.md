@@ -1,2 +1,4 @@
-# TONGJI-Lessons
-上传的所有复习笔记均为自创
+# TJCS-DATABASE
+TJCS 数据库系统原理
+
+授课老师：李文根
